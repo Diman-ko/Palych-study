@@ -15,5 +15,12 @@ p {
 img {
     width: 230px;
 }
+.cat {
+    align-content: center;
+    max-width: 500px;
+},
+.cat p {
+   text-align: center;
+}
 
 

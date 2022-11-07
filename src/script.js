@@ -12,4 +12,5 @@ let sumAppl = appl + appF;
 let answer = `${nameYou} and ${nameF}  you have :   ${sumAppl}  apples!`;
 alert(answer);
  console.log(answer);
+ document.write(answer);
 
